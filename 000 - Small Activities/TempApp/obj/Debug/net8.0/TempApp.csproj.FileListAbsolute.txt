@@ -1,0 +1,15 @@
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\bin\Debug\net8.0\TempApp.exe
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\bin\Debug\net8.0\TempApp.deps.json
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\bin\Debug\net8.0\TempApp.runtimeconfig.json
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\bin\Debug\net8.0\TempApp.dll
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\bin\Debug\net8.0\TempApp.pdb
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.AssemblyInfoInputs.cache
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.AssemblyInfo.cs
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.csproj.CoreCompileInputs.cache
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.sourcelink.json
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.dll
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\refint\TempApp.dll
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.pdb
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\TempApp.genruntimeconfig.cache
+E:\Programing Practices\Online Course Projects\000 - Small Activities\TempApp\obj\Debug\net8.0\ref\TempApp.dll
